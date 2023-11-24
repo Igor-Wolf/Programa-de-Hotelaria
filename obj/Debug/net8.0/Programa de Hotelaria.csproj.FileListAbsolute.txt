@@ -1,0 +1,14 @@
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\bin\Debug\net8.0\Programa de Hotelaria.exe
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\bin\Debug\net8.0\Programa de Hotelaria.deps.json
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\bin\Debug\net8.0\Programa de Hotelaria.runtimeconfig.json
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\bin\Debug\net8.0\Programa de Hotelaria.dll
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\bin\Debug\net8.0\Programa de Hotelaria.pdb
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\Programa de Hotelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\Programa de Hotelaria.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\Programa de Hotelaria.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\Programa de Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\Programa de Hotelaria.dll
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\refint\Programa de Hotelaria.dll
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\Programa de Hotelaria.pdb
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\Programa de Hotelaria.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\git dio\C#\Programa de Hotelaria\obj\Debug\net8.0\ref\Programa de Hotelaria.dll
